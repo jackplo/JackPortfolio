@@ -1,0 +1,25 @@
+.xl {
+    font-size: larger;
+}
+
+.lg {
+    font-size: large;
+}
+
+.md {
+    font-size: medium;
+}
+
+.sm {
+    font-size: small;
+}
+
+a {
+    color: #ff5733 !important;
+    border-bottom: #ff5733 1px solid !important;
+}
+
+a:hover {
+    background-color: #ff5733 !important;
+    color: #fff !important;
+}
