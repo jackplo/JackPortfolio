@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio description",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "Jack Lohse",
+  "license": "ISC"
+}
